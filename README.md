@@ -47,3 +47,4 @@ Dodatkowo aplikacja wykorzystuje:
 ### Kontakt
 
 jakubszklarski1@gmail.com
+
