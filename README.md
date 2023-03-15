@@ -17,7 +17,7 @@ front-end: Vue
 
 ### Funkcjonalność:
 
-# Kontroler galerii
+#### Kontroler galerii
 
 publicznie
 - pobieranie danych wielu obrazów (paginacja, filtr, sortowanie) oraz ich adresy URL (GetAll)
@@ -31,7 +31,7 @@ administrator
 - usuwanie wszystkich postów (deleteAll)
 - podmienianie id postów w celu zmiany domyślnej kolejności (UpdateOrder)
 
-# Kontroler admina
+#### Kontroler admina
 - logowanie - autoryzacja, token JWT (Login)
 - zmiana hasła - szyfrowanie haseł (Update)
 
